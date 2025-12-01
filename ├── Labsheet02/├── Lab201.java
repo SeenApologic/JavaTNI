@@ -9,3 +9,4 @@ public class Lab201 {
         System.out.println("Modulus = " + (num1 % num2));
     }
 }
+
